@@ -1,0 +1,23 @@
+# Temporal
+dataset/
+temp/
+
+# IDE
+.idea
+*.iml
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# Distribution / packaging
+.DS_Store
+.Python

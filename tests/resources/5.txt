@@ -1,0 +1,3 @@
+Ahora que tan de moda están las Aplicaciones Web Progresivas (con sus siglas en inglés PWA), muchos parecen no recordar que en el pasado la gran apuesta de Microsoft para fomentar la creación y desarrollo de apps tenía un nombre, la Plataforma Universal de Windows, popularmente conocida como UWP**.
+
+Eran otros tiempos en los que Microsoft se las prometía muy felices con las UWP y con Continuum. Pero al final, ni una ni otra opción han terminando triunfando. O eso es al menos lo que pensábamos, puesto que para Microsoft, según palabras de algunos representantes, las UWP aún están muy vivas.
