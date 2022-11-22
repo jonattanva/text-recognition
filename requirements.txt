@@ -3,7 +3,7 @@ h5py
 numpy
 matplotlib==3.1.1
 gast==0.2.2
-Pillow==8.3.2
+Pillow==9.0.1
 seaborn==0.10.0
 progress==1.5
 tensorflow==2.9.3
